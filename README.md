@@ -13,7 +13,7 @@ With an Internship @ https://openlogger.se/sv/hem/
 
 Skills: Python / C++ / Flask / MQTT / Raspberry / IoT / PCB-Design & Assembly
 
-- 🔭 I’m currently working on LED-Panels and cv2 
+- 🔭 I’m currently working on LED-Panels and cv2 on a Raspberry Pi
 - 🌱 I’m currently learning 3D-Printing & KiCad
 - 👯 I’m looking to collaborate on Interactive Design & Art projects
 
