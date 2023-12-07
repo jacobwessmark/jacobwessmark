@@ -7,6 +7,7 @@ As an IoT Developer and embedded enthusiast I brigde worlds and make things work
 I work with IoT solutions and embedded systems. 
 
 Finishing my studies @ https://kyh.se/utbildningar/internet-of-things-developer/
+
 With an Internship @ https://openlogger.se/sv/hem/
 
 Skills: Python / C++ / Raspberry / IoT / PCB 
