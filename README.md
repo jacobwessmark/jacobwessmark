@@ -1,4 +1,4 @@
-### Hi there 👋, Jacob Wessmark
+### Jacob Wessmark
 #### Thing builder
 ![Thing builder](https://i.postimg.cc/1XmHxcwT/banner.png)
 
