@@ -3,6 +3,7 @@
 ![Thing builder](https://i.postimg.cc/1XmHxcwT/banner.png)
 
 I'm Jacob from Sweden. 
+
 As an IoT Developer and embedded enthusiast I brigde worlds and make things work! 
 I work with IoT solutions and embedded systems. 
 
