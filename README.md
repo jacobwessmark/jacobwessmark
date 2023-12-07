@@ -14,5 +14,10 @@ and gaining practical experience through an internship at [OpenLogger](https://o
 - 🖨️ Learning 3D Printing and KiCad.
 - 🎨 Always open to collaboration on Interactive Design & Art projects.
 
+https://www.instagram.com/p/CzoHDu5oj-c/
+
+[![Image Caption](https://instagram.com/p/CzoHDu5oj-c)](https://instagram.com/p/CzoHDu5oj-c)
+
+
 ### Connect with Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jacob-wessmark-a00063249/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jacobwessmark/)  
