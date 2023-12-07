@@ -6,10 +6,13 @@ I'm Jacob from Sweden.
 As an IoT Developer and embedded enthusiast I brigde worlds and make things work! 
 I work with IoT solutions and embedded systems. 
 
-Skills: Python / C++ / Raspberry / IoT/ PCB 
+Finishing my studies @ https://kyh.se/utbildningar/internet-of-things-developer/
+With an Internship @ https://openlogger.se/sv/hem/
+
+Skills: Python / C++ / Raspberry / IoT / PCB 
 
 - 🔭 I’m currently working on LED-Panels and cv2 
-- 🌱 I’m currently learning Flask / MQTT / 3D-Print 
+- 🌱 I’m currently learning 3D-Printing & KiCad
 - 👯 I’m looking to collaborate on Interactive Design 
 
 
