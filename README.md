@@ -1,17 +1,14 @@
 # Jacob Wessmark
-## IoT Developer and Embedded Enthusiast
+## Embdedded Developer
 
 ![Thing builder](https://i.postimg.cc/1XmHxcwT/banner.png)
 
 I'm Jacob from Sweden, and I'm passionate about building intuetive things that bridge our worlds.
 
-I am currently finishing my studies at [KYH - Internet of Things Developer](https://kyh.se/utbildningar/internet-of-things-developer/)  
-and gaining practical experience through an internship at [OpenLogger](https://openlogger.se/sv/hem/).
-
 ### What I do 👇
-- 🖥️ Proficient in Python, C++, Flask, MQTT, Raspberry Pi, IoT, and PCB Design & Assembly.
-- 🚥 Currently working on LED Panels triggered with computer vision (cv2).
-- 🖨️ Learning 3D Printing and KiCad.
+- 🖥️ Embedded C/C++, Micropython, NXP, ESP-IDF, FreeRTOS.
+- 🚥 Working with IoT solutions. 
+- 🖨️ Passionate about Soldering, 3D Printing and circuitboard design with KiCad.
 - 🎨 Always open to collaboration on Interactive Design & Art projects.
 
 ### Connect with Me
